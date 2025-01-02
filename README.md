@@ -1,13 +1,9 @@
-<h1 align="center">Hey there, I'm Marius 👋</h1>
+<h1 align="center">Hey there, I'm Yashika 👋</h1>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=MariusBongarts&label=Profile+Views" />
-</p>
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/CN8RJQ9PWBk5y/giphy.gif?cid=790b7611l92bb6141rlm2dfdfh8wxywmm5e752ts0p1ah6cf&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="230">
 
 💻 currently a fresher, majoring in cs
 
 🍂 interested in full stack development, cybersecurity and AIML
 
-📫 you can find me on <code><a href="https://www.linkedin.com/in/yshdw1/" target="_blank" title="LinkedIn Profile"><img alt="LinkedIn Logo" width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code> 
+📫 you can find me on <code><a href="https://www.linkedin.com/in/yshdw1/" target="_blank" title="LinkedIn Profile"><a href="https://www.vecteezy.com/png/23986970-linkedin-logo-png-linkedin-logo-transparent-png-linkedin-icon-transparent-free-png">Linkedin</a></code> 
