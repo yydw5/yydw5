@@ -6,4 +6,4 @@
 
 🍂 interested in full stack development, cybersecurity and AIML
 
-📫 you can find me on <code><a href="https://www.linkedin.com/in/yshdw1/" target="_blank" title="LinkedIn Profile"><a href="https://www.vecteezy.com/png/23986970-linkedin-logo-png-linkedin-logo-transparent-png-linkedin-icon-transparent-free-png">Linkedin</a></code> 
+📫 you can find me on <code><a href="https://www.linkedin.com/in/yshdw1/">Linkedin</a></code> 
