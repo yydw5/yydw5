@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hey there, I'm Marius 👋</h1>
 
-<!--
-**yydw5/yydw5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=MariusBongarts&label=Profile+Views" />
+</p>
 
-Here are some ideas to get you started:
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 currently a fresher, majoring in cs
+
+🍂 interested in full stack development, cybersecurity and AIML
+
+📫 you can find me on <code><a href="https://www.linkedin.com/in/yshdw1/" target="_blank" title="LinkedIn Profile"><img alt="LinkedIn Logo" width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code> 
